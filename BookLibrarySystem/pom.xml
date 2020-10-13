@@ -18,7 +18,7 @@
 		<servlet.version>2.5</servlet.version>
 
 		<!-- Test -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 		<!-- Logging -->
 		<logback.version>1.0.12</logback.version>
