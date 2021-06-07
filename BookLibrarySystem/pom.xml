@@ -21,7 +21,7 @@
 		<junit.version>4.11</junit.version>
 
 		<!-- Logging -->
-		<logback.version>1.0.12</logback.version>
+		<logback.version>1.2.0</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>
 		<!-- mybatis -->
 		<mybatis.generator.overwrite>true</mybatis.generator.overwrite>
